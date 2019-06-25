@@ -84,14 +84,14 @@ Return
 INSERT & e::
   nhgFolder:= New NestedHotkeysWGui("Folder Navigation")
   nhgFolder
-    .Add("Q","OpenProgrammingFolders"        ,"+ Programming")
+    .Add("Q","OpenProgrammingFolders" ,"+ Programming")
     .Add("W","Run","Google Drive"     ,"C:\Users\Luis\Google Drive")
     .Add("E","Run","Chatbot Scripts"  ,"C:\Users\Luis\AppData\Roaming\Streamlabs\Streamlabs Chatbot\Services\Scripts")
     .Add("D","Run","Documents folder" ,A_MyDocuments)
   .Run()
   
   OpenProgrammingFolders(){
-    nhgProgrammingFolders:=New NestedHotkeysWGui(">Office Products")
+    nhgProgrammingFolders:=New NestedHotkeysWGui(">Programming")
     nhgProgrammingFolders
       .Add("Q","Run","AHK"    ,"C:\Users\Luis\Google Drive\Programming\AHK")
       .Add("W","Run","C#"     ,"C:\Users\Luis\source\repos")
