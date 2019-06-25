@@ -47,7 +47,7 @@ To use this you would do the following:
 * Press any other key not present in the GUI's information
 
 ## More examples
-* [Simple Example](https://github.com/SiulSalas/NestedHotkeysWGui/blob/master/Simple%20Example.ahk) - This functional example replaces the shortcut Windows+E with a GUI including different folders instead of the default.
-![Simple Example Image](https://raw.githubusercontent.com/SiulSalas/NestedHotkeysWGui/master/Simple%20Example.png)
+* [Simple Example](https://github.com/LuisSanchez-Dev/NestedHotkeysWGui/blob/master/Simple%20Example.ahk) - This functional example replaces the shortcut Windows+E with a GUI including different folders instead of the default.
+![Simple Example Image](https://raw.githubusercontent.com/LuisSanchez-Dev/NestedHotkeysWGui/master/Simple%20Example.png)
 
-* [Nested Hotkeys](https://github.com/SiulSalas/NestedHotkeysWGui/blob/master/Nested%20Hotkeys.ahk) - This example shows how to add GUIs inside GUIs, expanding the functionality of your keyboard massively.
+* [Nested Hotkeys](https://github.com/LuisSanchez-Dev/NestedHotkeysWGui/blob/master/Nested%20Hotkeys.ahk) - This example shows how to add GUIs inside GUIs, expanding the functionality of your keyboard massively.
